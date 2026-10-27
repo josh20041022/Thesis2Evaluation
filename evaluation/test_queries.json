@@ -1,0 +1,47 @@
+[
+  {
+    "query": "Japanese restaurants",
+    "expected_relevant_names": [
+      "Nonki Japanese Restaurant - AutoVille Building",
+      "Dining Hime Japanese Food And Bar - Damosa",
+      "Sukidesu Japanese Street Dining - Lanang",
+      "Sukidesu Modern Japanese Cuisine - Aurora",
+      "Hime Japanese Resto Bar - Matina Crossing",
+      "Taishozan Japanese Restaurant",
+      "Makoto Ya Japanese Restaurant",
+      "Kitsune Japanese Restaurant - Matina",
+      "Ginkaku Japanese Restaurant - Matina",
+      "Manzoku Japanese Restaurant - Felcris Centrale Mall"
+    ]
+  },
+  {
+    "query": "coffee shops",
+    "expected_relevant_names": [
+      "Spica Coffee Shop - C M Recto",
+      "Palpitate Coffee - Obrero",
+      "Urbanica Milk Coffee - SM City Davao",
+      "Paramount Coffee - Lanang",
+      "HYGGE COFFEE - Juan Luna",
+      "KapeMore Roastery and Specialty Coffee - Matina Town Square",
+      "PICKUP COFFEE - Davao Park District",
+      "Overdose Coffee - Bonifacio St",
+      "Dash Coffee - New Matina",
+      "Vera - Coffee and Bistro"
+    ]
+  },
+  {
+    "query": "fried chicken",
+    "expected_relevant_names": [
+      "Gang Gang Boneless Fried Chicken - Bonifacio Street",
+      "Chickenato Fried Chicken - Boulevard",
+      "Maui Teriyaki + Mamo's Fried Chicken - Taboan",
+      "The Fryers Fried Chicken House - Silver St",
+      "Gang Gang Boneless Fried Chicken - Plaza Milagrosa BLDG",
+      "Sunburst Fried Chicken - Davao",
+      "Bantooks’ Bangusan and Fried Chicken Stall - Cabantian Road",
+      "Fried Chicken Station - Jacinto Extn.",
+      "Gang Gang Boneless Fried Chicken",
+      "24 Chicken - Bajada"
+    ]
+  }
+]
